@@ -1,0 +1,14 @@
+
+
+
+15. useContext Hook -> /context/ theme.js, ThemeContext.jsx, Box.jsx, App.jsx
+
+16. useContext Future Value -> I skipped this check it later
+
+17. useRef hook -> ref/DomRef.jsx and MutableRef.jsx
+
+18. class component -> class/Counter.jsx
+
+19. component prop -> Login.jsx, Profile.jsx, Private.jsx
+    Here we are passing component as props.
+ 
